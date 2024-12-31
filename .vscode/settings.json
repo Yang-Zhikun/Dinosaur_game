@@ -1,0 +1,24 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.encoding": "gbk",
+    "C_Cpp.errorSquiggles": "enabled",
+    //C/C++格式化代码的设置
+    /*"editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+
+    "C_Cpp.vcFormat.newLine.beforeWhileInDoWhile": true,
+    "C_Cpp.vcFormat.space.afterComma": false,
+    "C_Cpp.vcFormat.space.afterKeywordsInControlFlowStatements": false,
+    "C_Cpp.vcFormat.space.aroundAssignmentOperator": "ignore",
+    "C_Cpp.vcFormat.space.aroundBinaryOperator": "ignore",
+    "C_Cpp.vcFormat.space.aroundTernaryOperator": "ignore",
+    "C_Cpp.vcFormat.space.beforeBlockOpenBrace": false,
+    "C_Cpp.vcFormat.space.beforeComma": false,
+    "C_Cpp.vcFormat.space.beforeConstructorColon": true,*/
+    
+}
